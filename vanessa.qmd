@@ -1,0 +1,42 @@
+---
+title: "Vanessa S.M. Paixão-Côrtes"
+image: library/authors/Vanessa.png
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/vanessapaixaocortes/
+    - icon: github
+      text: Github
+      href: https://github.com/vanessastangherlin
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/vahstangherlin
+---
+
+Vanessa é professora, manda muito bem.
+
+### Formação
+
+- **PUCRS**
+  - Doutorado em Ciência da Computação - **2019**
+  - Mestrado em Ciência da Computação - **2015**
+- **URI - Santo Ângelo**
+  - Bacharelado em Sistemas de Informação - **2013**
+  - Licenciatura em Ciências Biológicas - **2004**
+
+
+### Certificados
+
+N/A
+
+### Experiência
+
+- **Trybe**
+  - Pessoa Especialista - **2021 - 2022**
+- **CESUCA**
+  - Professora - **2020 - 2021**
+- **UFSCPA**
+  - Professora - **2020 - 2021**

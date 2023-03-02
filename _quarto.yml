@@ -1,0 +1,29 @@
+project:
+  type: website
+  preview:
+    port: 5000
+    browser: false
+  render: 
+    - "*.ipynb"
+    - "*.qmd"
+    - "!data-viz-aula-completa/"
+    
+website:
+  title: "WVCode - Educação e Consultoria"
+  navbar:
+    logo: library/logos/logo_000_wvcode.png
+    right:
+      - text: Sobre
+        href: about.qmd
+      - icon: github
+        href: https://github.com/wvcode
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
+

@@ -1,0 +1,81 @@
+---
+title: "Visualização de Dados com Python"
+author: "Walter R. Paixão-Côrtes"
+date: "2023-02-01"
+categories: [Cursos, Python, Pandas, Seaborn]
+image: "../../library/concepts/programming.jpg"
+title-block-banner: false
+---
+
+Acompanhe o curso por aqui!
+
+
+### Introdução 
+- Tópicos abordados no curso
+- Metodologia
+- [Leia mais...](/posts/data-010/index.html)
+
+### Aula 01 - Teoria de Visualização de Dados
+- O Fluxo de Trabalho da Ciência de Dados
+- O que é Visualização de Dados
+- Tipos de Visualização de Dados
+- Tipos de Visualização X Objetivo de Comunicação
+- Como podemos criar Visualizações
+- [Leia mais...](/posts/data-101/index.html)
+
+### Aula 02 - Google Colab
+- O que é o Google Colab
+- Acessando
+- Aprendendo a carregar os dados no Google Colab
+- Inspecionando os dados
+  - Listas
+  - Dicionário de Dados
+- [Leia mais...](/posts/data-102/index.html)
+
+### Aula 03 - Formato de Dados
+- Fontes de dados e seus formatos
+  - Formato Tabular
+- Otimizando o Formato Tabular
+- DataFrames e Series
+- [Leia mais...](/posts/data-103/index.html)
+
+### Aula 04 - Consolidando o Aprendizado das aulas 2 e 3
+- Criando um notebook no Google Colab
+- Carregando Dados de CSV
+- Transformando do formato Largo para o Longo
+- Usando bibliotecas externas para facilitar o trabalho
+- [Leia mais...](/posts/data-104/index.html)
+
+
+### Aula 05 - Pandas
+  - Introdução
+  - Instalando
+  - Carregando os Dados
+  - Inspecionando os Dados
+  - Agregando os Dados
+  - Filtrando os Dados
+
+### Aula 06 - Seaborn - Primeiros Passos
+  - Introdução
+  - Instalação
+  - Utilização Básica
+
+### Aula 07 - Seaborn - Mais Tipos de Visualização
+
+### Aula 08 - Seaborn - Melhorando seus Visuais
+
+### Aula 09 - Visualizando Mapas de Rede
+
+### Aula 10 - Visualizando Sankey Charts
+
+### Aula 11 - Visualizando Wordclouds
+
+### Aula 12 - Pandas e Bancos de Dados
+  - Usando SQLAlchemy
+  - Bancos Relacionais
+  - DuckDB
+
+### Aula 13 - Finalizando
+  - Recursos Extras para Aprender sobre Pandas
+  - Recursos Extras para Aprender sobre Seaborn
+  - Recursos Extras sobre Visualização de Dados

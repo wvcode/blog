@@ -1,0 +1,40 @@
+---
+listing:
+  - id: posts-destaque
+    contents: 
+      - posts/dt_*/*.ipynb
+      - posts/dt_*/*.qmd
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: true
+    sort-ui: false
+    filter-ui: false
+  - id: posts-todos
+    contents: 
+      - posts/tl_*/*.ipynb
+      - posts/tl_*/*.qmd
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 5
+
+page-layout: full
+title-block-banner: false
+---
+
+
+
+### Destaques
+
+:::{#posts-destaque}
+:::
+
+
+### Todos os posts
+
+:::{#posts-todos}
+:::
+

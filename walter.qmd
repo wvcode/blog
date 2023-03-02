@@ -1,0 +1,53 @@
+---
+title: "Walter R. Paixão-Côrtes"
+image: library/authors/Walter.png
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/walterritzel/
+    - icon: github
+      text: Github
+      href: https://github.com/WalterPaixaoCortes
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/wpcortes75
+---
+
+Walter é um profissional da área de TI com mais de 25 anos de experiência. Atualmente, trabalha como Product Line Manager na Dell Technologies e atua como Engenheiro Analista de Dados em projetos independentes.
+
+### Formação
+
+- PUCRS
+  - Doutorado em Ciência da Computação - 2020
+  - Mestrado em Ciência da Computação - 2015
+  - Bacharelado em Ciência da Computação - 2002
+- CTI - FURG
+  - Tecnólogo em Processamento de Dados - 1993
+
+### Certificados
+
+- Analista de Requisitos, IIBA - 2016
+- Scrum Master, ScrumAlliance, 2017
+
+
+### Experiência
+
+- **Dell Technologies**
+  - Product Line Manager - **2022 - ...**
+  - Product Designer - **2019 - 2022**
+  - Principal Soft. Engineer - **2017 - 2019**
+  - Lead Senior Software Engineer - **2008 - 2017**
+  - Lead Software Engineer - **2005 - 2008**
+- **Accenture**
+  - Consultor - **2003 - 2005**
+- **Bankorp Consultores Associados**
+  - Consultor - **2001 - 2003**
+- **Binário Internet**
+  - Lead Software Engineer - **1999 - 2001**
+- **CSI - Consultoria e Sistemas de Informação**
+  - Software Engineer - **1996 - 1999**
+- **Outras Empresas**
+  - Estagiário/Programador - **1993 - 1996**
