@@ -54,6 +54,7 @@ Acompanhe o curso por aqui!
   - Inspecionando os Dados
   - Agregando os Dados
   - Filtrando os Dados
+  - [Leia mais...](/posts/data-105/index.html)
 
 ### Aula 06 - Seaborn - Primeiros Passos
   - Introdução
