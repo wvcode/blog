@@ -52,8 +52,8 @@ Acompanhe o curso por aqui!
   - Instalando
   - Carregando os Dados
   - Inspecionando os Dados
-  - Agregando os Dados
   - Filtrando os Dados
+  - Agregando os Dados
   - [Leia mais...](/posts/data-105/index.html)
 
 ### Aula 06 - Seaborn - Primeiros Passos
