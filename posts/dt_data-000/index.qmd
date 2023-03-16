@@ -48,35 +48,54 @@ Acompanhe o curso por aqui!
 
 
 ### Aula 05 - Pandas
-  - Introdução
-  - Instalando
-  - Carregando os Dados
-  - Inspecionando os Dados
-  - Filtrando os Dados
-  - Agregando os Dados
-  - [Leia mais...](/posts/data-105/index.html)
+- Introdução
+- Instalando
+- Carregando os Dados
+- Inspecionando os Dados
+- Filtrando os Dados
+- Agregando os Dados
+- [Leia mais...](/posts/data-105/index.html)
+
 
 ### Aula 06 - Seaborn - Primeiros Passos
-  - Introdução
-  - Instalação
-  - Utilização Básica
+- Introdução
+- Instalação
+- Utilização Básica
+- [Leia mais...](/posts/data-106/index.html)
 
-### Aula 07 - Seaborn - Mais Tipos de Visualização
 
-### Aula 08 - Seaborn - Melhorando seus Visuais
+### Aula 07 - Seaborn - Linhas e Áreas
+- Introdução
+- Preparação
+- Utilização Básica
+- [Leia mais...](/posts/data-107/index.html)
 
-### Aula 09 - Visualizando Mapas de Rede
+### Aula 08 - Seaborn - Dispersão e Pontos
+- Introdução
+- Preparação
+- Utilização Básica
+- [Leia mais...](/posts/data-108/index.html)
 
-### Aula 10 - Visualizando Sankey Charts
+### Aula 09 - Seaborn - Tudo acaba em Pizza
+- Introdução
+- Preparação
+- Utilização Básica
+- [Leia mais...](/posts/data-109/index.html)
 
-### Aula 11 - Visualizando Wordclouds
+### Aula 10 - Seaborn - Melhorando seus Visuais
 
-### Aula 12 - Pandas e Bancos de Dados
+### Aula 11 - Visualizando Mapas de Rede
+
+### Aula 12 - Visualizando Sankey Charts
+
+### Aula 13 - Visualizando Wordclouds
+
+### Aula 14 - Pandas e Bancos de Dados
   - Usando SQLAlchemy
   - Bancos Relacionais
   - DuckDB
 
-### Aula 13 - Finalizando
+### Aula 15 - Finalizando
   - Recursos Extras para Aprender sobre Pandas
   - Recursos Extras para Aprender sobre Seaborn
   - Recursos Extras sobre Visualização de Dados
