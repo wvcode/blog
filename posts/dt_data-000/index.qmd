@@ -81,19 +81,41 @@ Acompanhe o curso por aqui!
 - Preparação
 - Utilização Básica
 - [Leia mais...](/posts/data-109/index.html)
-
+...
 ### Aula 10 - Seaborn - Melhorando seus Visuais
+- Introdução
+- Problema
+- Passo a Passo
+- Conclusão
+- [Leia mais...](/posts/data-110/index.html)
 
 ### Aula 11 - Visualizando Mapas de Rede
+- Introdução
+- Problema
+- Passo a Passo
+- Conclusão
+- [Leia mais...](/posts/data-111/index.html)
 
 ### Aula 12 - Visualizando Sankey Charts
+- Introdução
+- Problema
+- Passo a Passo
+- Conclusão
+- [Leia mais...](/posts/data-112/index.html)
 
 ### Aula 13 - Visualizando Wordclouds
+- Introdução
+- Problema
+- Passo a Passo
+- Conclusão
+- [Leia mais...](/posts/data-113/index.html)
 
 ### Aula 14 - Pandas e Bancos de Dados
-  - Usando SQLAlchemy
-  - Bancos Relacionais
-  - DuckDB
+- Introdução
+- Problema
+- Passo a Passo
+- Conclusão
+- [Leia mais...](/posts/data-114/index.html)
 
 ### Aula 15 - Finalizando
   - Recursos Extras para Aprender sobre Pandas
