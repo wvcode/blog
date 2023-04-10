@@ -117,7 +117,29 @@ Acompanhe o curso por aqui!
 - Conclusão
 - [Leia mais...](/posts/data-114/index.html)
 
-### Aula 15 - Finalizando
-  - Recursos Extras para Aprender sobre Pandas
-  - Recursos Extras para Aprender sobre Seaborn
-  - Recursos Extras sobre Visualização de Dados
+### Aula 15 - Precisa de Interatividade? Plotly é a solução!
+- Introdução
+- Preparando o ambiente
+- Carregando os dados
+- Tipos de Gráficos
+  - Barra/Colunas
+  - Linha/Área
+  - Dispersão/Pontos
+  - Pizza
+- Conclusão
+- [Leia mais...](/posts/data-115/index.html)
+
+### Aula 16 - Criando Visualizações Efetivas
+- Introdução
+- Preparando o ambiente
+- Carregando os dados
+- Exemplo 1 - Gráfico de Barra
+  - Passo 1 - Forma segue a Função
+  - Passo 2 - Eliminando a Poluição
+  - Passo 3 - Direcionando o Foco
+- Exemplo 2 - Quadrante Mágico
+  - Passo 1 - Forma segue a Função
+  - Passo 2 - Eliminando a Poluição
+  - Passo 3 - Direcionando o Foco
+- Conclusão
+- [Leia mais...](/posts/data-115/index.html)
