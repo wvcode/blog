@@ -133,13 +133,11 @@ Acompanhe o curso por aqui!
 - Introdução
 - Preparando o ambiente
 - Carregando os dados
-- Exemplo 1 - Gráfico de Barra
-  - Passo 1 - Forma segue a Função
-  - Passo 2 - Eliminando a Poluição
-  - Passo 3 - Direcionando o Foco
-- Exemplo 2 - Quadrante Mágico
-  - Passo 1 - Forma segue a Função
-  - Passo 2 - Eliminando a Poluição
-  - Passo 3 - Direcionando o Foco
+- Gerando um Gráfico de Barras
+- Escolhendo o Tipo de Gráfico
+- Adicionando Título
+- Ajustando Legenda
+- Ajustando Eixos
+- Adicionando Labels
 - Conclusão
-- [Leia mais...](/posts/data-115/index.html)
+- [Leia mais...](/posts/data-116/index.html)
