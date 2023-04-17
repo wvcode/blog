@@ -1,0 +1,25 @@
+---
+title: "[VDP] - Introdução"
+author: "Walter R. Paixão-Côrtes"
+date: "2023-02-02"
+categories: [Visualização, Python, Pandas, Seaborn]
+description: Entenda como o curso irá funcionar!
+---
+
+Olá Cientista de Dados!!!
+
+O curso de Visualização de Dados com Python tem por objetivo de habilitar os alunos a utilizar a linguagem Python para realizar análises de dados e criar gráficos que transmitam a informação de maneira agradável e direta.
+
+Ao longo deste curso você irá aprender a utilizar algumas das bibliotecas mais famosas na área de Ciência de Dados: Pandas, Seaborn, MatplotLib e muito mais.
+
+Então, não perca mais tempo e comece o curso agora mesmo!
+
+Um abraço,
+Walter.
+
+### Navegação
+
+| Anterior 	|   | [Próximo >](/posts/data-101/index.html) 	|
+|---------- |---|--------:	|
+
+
