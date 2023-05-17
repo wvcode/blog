@@ -81,7 +81,7 @@ Acompanhe o curso por aqui!
 - Preparação
 - Utilização Básica
 - [Leia mais...](/posts/data-109/index.html)
-...
+
 ### Aula 10 - Seaborn - Melhorando seus Visuais
 - Introdução
 - Problema

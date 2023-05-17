@@ -8,9 +8,13 @@ description: Entenda como o curso irá funcionar!
 
 Olá Cientista de Dados!!!
 
-O curso de Visualização de Dados com Python tem por objetivo de habilitar os alunos a utilizar a linguagem Python para realizar análises de dados e criar gráficos que transmitam a informação de maneira agradável e direta.
+O curso de Visualização de Dados com Python tem por objetivo habilitar os alunos (e futuros Cientistas de Dados) a utilizar a linguagem Python para: 
 
-Ao longo deste curso você irá aprender a utilizar algumas das bibliotecas mais famosas na área de Ciência de Dados: Pandas, Seaborn, MatplotLib e muito mais.
+- realizar análises de dados em grandes volumes e nos mais diferentes formatos
+- criar gráficos que transmitam a informação de maneira agradável e direta
+- aprender sobre tipos de visualização de dados que vão além dos gráficos de barras, linhas e tortas.
+
+Ao longo do curso você irá aprender a utilizar algumas das bibliotecas Python mais famosas na área de Ciência de Dados: Requests, Pandas, Seaborn, MatplotLib, Plotly e muito mais.
 
 Então, não perca mais tempo e comece o curso agora mesmo!
 
@@ -19,7 +23,7 @@ Walter.
 
 ### Navegação
 
-| Anterior 	|   | [Próximo >](/posts/data-101/index.html) 	|
+| Anterior 	| \| | [Próximo >](/posts/data-101/index.html) 	|
 |---------- |---|--------:	|
 
 
