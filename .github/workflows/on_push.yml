@@ -33,3 +33,4 @@ jobs:
           heroku_email: ${{ secrets.HEROKU_EMAIL }}
           heroku_app_name: ${{ secrets.HEROKU_APP_NAME }}
           appdir: '_site' # or _site or any other directory you used as project's output-dir in `_quarto.yml`
+          remote_branch: "master"
