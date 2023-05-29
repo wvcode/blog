@@ -26,11 +26,13 @@ jobs:
           cp composer.json _site/composer.json
         shell: sh
 
-      - name: Publish
-        uses: akhileshns/heroku-deploy@v3.12.14
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GH_PAT }}
         with:
-          heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
-          heroku_email: ${{ secrets.HEROKU_EMAIL }}
-          heroku_app_name: ${{ secrets.HEROKU_APP_NAME }}
-          appdir: '_site' # or _site or any other directory you used as project's output-dir in `_quarto.yml`
-          remote_branch: "master"
+          source-directory: '_site'
+          destination-github-username: 'wvcode'
+          destination-repository-name: 'blog-conteudo'
+          user-email: wpcortes@gmail.com
+          target-branch: main
