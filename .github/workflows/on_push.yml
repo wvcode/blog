@@ -27,7 +27,7 @@ jobs:
         shell: sh
 
       - name: Publish
-        uses: khileshns/heroku-deploy@v3.12.14
+        uses: akhileshns/heroku-deploy@v3.12.14
         with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
           heroku_email: ${{ secrets.HEROKU_EMAIL }}
