@@ -21,9 +21,15 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
       
       - name: Copy index.php
-        run: |
-          cp index.php _site/index.php
-          cp composer.json _site/composer.json
+        run: cp index.php _site/index.php
+        shell: sh
+      
+      - name: Copy composer.json
+        run: cp composer.json _site/composer.json
+        shell: sh
+
+      - name: Git unset
+        run: git config --unset-all http.https://github.com/.extraheader
         shell: sh
 
       - name: Pushes to another repository
