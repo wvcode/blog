@@ -32,7 +32,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.GH_PAT }}
         with:
           source-directory: '_site'
-          destination-github-username: 'WalterPaixaoCortes'
-          destination-repository-name: 'wvcode/blog-conteudo'
+          destination-github-username: 'wvcode'
+          destination-repository-name: 'blog-conteudo'
           user-email: wpcortes@gmail.com
           target-branch: main
