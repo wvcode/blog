@@ -37,6 +37,10 @@ jobs:
         run: mv _site/* _deploy/content
         shell: sh
       
+      - name: Copy site template
+        run: cp library/site_template/* _deploy
+        shell: sh
+
       - name: Git unset
         run: git config --unset-all http.https://github.com/.extraheader
         shell: sh
