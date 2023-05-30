@@ -25,14 +25,18 @@ jobs:
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
       
-      - name: Copy index.php
-        run: cp index.php _site/index.php
-        shell: sh
-      
-      - name: Copy composer.json
-        run: cp composer.json _site/composer.json
+      - name: Create Deploy folder
+        run: mkdir _deploy
         shell: sh
 
+      - name: Create content folder
+        run: mkdir _deploy/content
+        shell: sh
+
+      - name: Copy content to content folder
+        run: mv _site/* _deploy/content
+        shell: sh
+      
       - name: Git unset
         run: git config --unset-all http.https://github.com/.extraheader
         shell: sh
@@ -42,7 +46,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_PAT }}
         with:
-          source-directory: '_site'
+          source-directory: '_deploy'
           destination-github-username: 'wvcode'
           destination-repository-name: 'blog-conteudo'
           user-email: wpcortes@gmail.com
