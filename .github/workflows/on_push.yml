@@ -15,9 +15,9 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          python-version: '3.9.X' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           cache: 'pip'
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt --prefer-binary
       
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
