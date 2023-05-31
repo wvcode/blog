@@ -1,13 +1,14 @@
 ---
-title: "Visualização de Dados com Python"
+title: "Visualização de Dados com Python - Sumário"
 author: "Walter R. Paixão-Côrtes"
 date: "2023-02-01"
 categories: [Cursos, Python, Pandas, Seaborn]
 image: "../../library/concepts/programming.jpg"
 title-block-banner: false
+description: Acompanhe o curso por aqui.
 ---
 
-Acompanhe o curso por aqui!
+Aqui temos o sumário do curso, todas as aulas podem ser acessadas a partir daqui.
 
 
 ### Introdução 

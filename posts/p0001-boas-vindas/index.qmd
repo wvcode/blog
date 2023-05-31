@@ -1,0 +1,47 @@
+---
+title: "Bem-vindos(as)!"
+author: ["Vanessa", "Walter"]
+date: "2023-05-31"
+categories: [Geral]
+title-block-banner: false
+description: Leia este post primeiro!
+---
+
+![](../../library/concepts/programming_place.jpg)
+
+<br>
+Ei, que bom ver você por aqui! Sejam bem-vindas(os) ao Blog do WVCode!
+
+Neste espaço vamos publicar conteúdos que gostamos, e que acreditamos que podem fazer a diferença para você e sua carreira!
+
+### O que vamos publicar por aqui
+
+Aqui você vai encontrar conteúdo que vai auxilia-lo a afiar os seus "hard skills" (habilidades técnicas) e também seus "soft skills" (competências).
+
+#### Hard Skills
+
+Você pode esperar muito conteúdo sobre Ciência de Dados, Bancos de Dados, UX e Design Thinking. 
+
+E as linguagens queridinhas do mercado também vão dar suas caras:  Python, Javascript e SQL! Serão disponibilizados artigos do básico ao avançado, dicas e truques de produtividade! 
+
+E é claro, iremos abordar os muitos frameworks, bibliotecas e ferramentas que nos ajudam a desempenhar atividades profissionais: React, Angular, Vue, Node, Express, FastAPI, Flask, Pandas, Seaborn, Scikit, e dbt, apenas para mencionar alguns.
+
+#### Soft Skills
+
+Nesta área, falaremos sobre liderança, agilidade, modelo de produto e outros assuntos.
+
+#### Legal, o primeiro post de sempre... Mas e o conteúdo, quando irá ser publicado?
+
+Iniciamos o blog com a corda toda, e este post não é o tradicional 'First' post que você vê por aí não...
+
+Já disponibilizamos cerca de 18 posts sobre Visualização de Dados com Python, para você aprender do zero, como criar análises e gráficos utilizando Python, Google Colab e as boas práticas de design! Link abaixo:
+
+[Visualização de Dados com Python](/posts/data-100/index.html)
+
+
+Então, não deixe de nos acompanhar!
+
+
+Um abraço,
+
+Vanessa e Walter.
