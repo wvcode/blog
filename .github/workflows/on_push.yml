@@ -41,6 +41,10 @@ jobs:
         run: cp library/site_template/* _deploy
         shell: sh
 
+      - name: Copy .gitignore
+        run: cp library/site_template/.gitignore _deploy
+        shell: sh
+
       - name: Git unset
         run: git config --unset-all http.https://github.com/.extraheader
         shell: sh
