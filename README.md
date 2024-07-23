@@ -1,2 +1,2 @@
 # blog
-Blog do WVCode - Compartilhando Conhecimento
+Blog do WV Code - Compartilhando Conhecimento

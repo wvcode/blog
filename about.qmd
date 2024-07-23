@@ -12,7 +12,7 @@ about:
 ---
 
 :::{#hero-heading}
-O WVCode é um blog de tecnologia criado por dois profissionais da área: Vanessa S.M. Paixão Côrtes e Walter R. Paixão Côrtes. Este blog tem por objetivo realizar a divulgação de conteúdo tecnológico de forma gratuita e em bom Português, tornando o vasto conteúdo de nossa área mais acessível para aqueles que estão iniciando na área e ainda não dominam o Inglês, bem como para quem ainda não consegue pagar por conteúdo on-line. Além de aprender com nossas publicações interativas, você pode ter acesso aos nossos repositórios de código no github. 
+O WV Code é um blog de tecnologia criado por dois profissionais da área: Vanessa S.M. Paixão Côrtes e Walter R. Paixão Côrtes. Este blog tem por objetivo realizar a divulgação de conteúdo tecnológico de forma gratuita e em bom Português, tornando o vasto conteúdo de nossa área mais acessível para aqueles que estão iniciando na área e ainda não dominam o Inglês, bem como para quem ainda não consegue pagar por conteúdo on-line. Além de aprender com nossas publicações interativas, você pode ter acesso aos nossos repositórios de código no github. 
 :::
 
 ### Quem faz o Blog?

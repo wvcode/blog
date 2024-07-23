@@ -9,7 +9,7 @@ project:
     - "!data-viz-aula-completa/"
     
 website:
-  title: "WVCode - Educação e Consultoria"
+  title: "WV Code - Educação e Consultoria"
   navbar:
     logo: library/logos/logo_000_wvcode.png
     right:
