@@ -6,6 +6,7 @@ categories: [Cursos, Python, Pandas, Seaborn]
 image: "../../library/concepts/programming.jpg"
 title-block-banner: false
 description: Acompanhe o curso por aqui.
+draft: true
 ---
 
 Aqui temos o sumário do curso, todas as aulas podem ser acessadas a partir daqui.
