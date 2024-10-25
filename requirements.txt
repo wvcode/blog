@@ -16,3 +16,4 @@ python-pptx
 nbconvert
 nbparameterise
 jupyter
+powerbiclient
