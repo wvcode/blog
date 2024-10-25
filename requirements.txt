@@ -17,3 +17,4 @@ nbconvert
 nbparameterise
 jupyter
 powerbiclient
+ipykernel

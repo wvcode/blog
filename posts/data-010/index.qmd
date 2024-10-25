@@ -2,7 +2,7 @@
 title: "Introdução"
 author: "Walter R. Paixão-Côrtes"
 date: "2023-02-02"
-categories: [Visualização, Python, Pandas]
+categories: [Visualização, Python, Pandas, ptbr]
 description: Iniciando com tudo!
 ---
 
