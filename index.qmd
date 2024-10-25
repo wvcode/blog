@@ -10,6 +10,7 @@ listing:
     sort-ui: true
     filter-ui: true
     page-size: 10
+    feed: true
 
 page-layout: full
 title-block-banner: false

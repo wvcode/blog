@@ -10,6 +10,7 @@ project:
     
 website:
   title: "WV Code - Educação e Consultoria"
+  site-url: https://blog.wvcode.com.br
   navbar:
     logo: library/logos/logo_000_wvcode.png
     right:
@@ -19,6 +20,8 @@ website:
         href: https://github.com/wvcode
       - icon: twitter
         href: https://twitter.com
+      - icon: rss
+        href: https://blog.wvcode.com.br/index.xml
 format:
   html:
     theme: flatly
