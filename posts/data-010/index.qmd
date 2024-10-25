@@ -18,5 +18,8 @@ Ao longo dos posts você irá aprender a utilizar algumas das bibliotecas Python
 
 Então, não perca mais tempo e comece a leitura agora mesmo!
 
+### AVISO!!!
+Essa série de posts é destinada a um público menos experiente, que ainda está aprendendo a programar em Python, bem como aqueles que estão iniciando seu caminho na área de Ciência de Dados. Se você já domina a linguagem, os artigos fora da série de Visualização de Dados com certeza serão mais interessantes!
+
 Um abraço,
 Walter.
