@@ -5,7 +5,6 @@ seaborn
 matplotlib
 plotly
 openpyxl
-duckdb
 requests
 python-dotenv
 google-generativeai
@@ -18,3 +17,7 @@ nbparameterise
 jupyter
 powerbiclient
 ipykernel
+jupysql
+pyarrow
+sqlalchemy
+duckdb-engine
